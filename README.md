@@ -16,3 +16,7 @@ contains the export of [this](https://www.fangraphs.com/leaders.aspx?pos=all&sta
 contains the export of [this](https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=20&type=6&season=2021&month=0&season1=1967&ind=1&team=0&rost=0&age=0&filter=&players=0&startdate=1967-01-01&enddate=2021-12-31) fangraphs leaderboard
 
 * min 20 IP
+
+### managers.csv
+
+export of [this](https://www.baseball-reference.com/managers/) baseball-reference.com table on 1/3/2022
