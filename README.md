@@ -20,3 +20,7 @@ contains the export of [this](https://www.fangraphs.com/leaders.aspx?pos=all&sta
 ### managers.csv
 
 export of [this](https://www.baseball-reference.com/managers/) baseball-reference.com table on 1/3/2022
+
+### pitching_stats_range_2022_06_22.sv
+
+Results of `pybaseball.pitching_stats_range('2022-06-22', '2022-06-22')` pulled for u/btrams
